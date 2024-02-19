@@ -1,2 +1,2 @@
-# cleanw11
-Clean windows 11 environment
+# CleanW11
+Clean Windows 11 environment
